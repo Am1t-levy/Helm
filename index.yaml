@@ -3,12 +3,12 @@ entries:
   shadowatch-chart:
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-10T13:51:58.880561158Z"
+    created: "2025-03-10T14:32:01.743651018Z"
     description: A Helm chart for deploying the shadowatch app
-    digest: 95e016231189e4bd8d1f71032ea62bf4271dc0cd01626d96ca20e22717675100
+    digest: 01bc74517982aeb6657cb853914fe0be5f2cca1f1936b027269f9778d5eccf66
     name: shadowatch-chart
     type: application
     urls:
     - https://Am1t-levy.github.io/helm/shadowatch-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2025-03-10T13:51:58.879421843Z"
+generated: "2025-03-10T14:32:01.743176552Z"
